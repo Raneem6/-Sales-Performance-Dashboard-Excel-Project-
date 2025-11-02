@@ -119,7 +119,8 @@ Follow these steps to interact with the dashboard:
 | 🌞 Light Mode | 🌙 Dark Mode |
 |---------------|--------------|
 | ![Light Mode](<img width="869" height="522" alt="Screenshot_Light mood_png" src="https://github.com/user-attachments/assets/e22814ed-ace4-4dbf-ac64-28dc030b63e1" />
-) | ![Dark Mode](./Screenshotdarkmood) |
+) | ![Dark Mode](<img width="1325" height="813" alt="Screenshot_dark_mood_png" src="https://github.com/user-attachments/assets/cf842aa9-893a-4637-a15a-669b5e7035b7" />
+) |
 
 ---
 
