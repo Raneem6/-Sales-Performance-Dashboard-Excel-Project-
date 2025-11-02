@@ -118,7 +118,7 @@ Follow these steps to interact with the dashboard:
 
 | 🌞 Light Mode | 🌙 Dark Mode |
 |---------------|--------------|
-| ![Light Mode](./ScreenshotLightmood.png) | ![Dark Mode](./Screenshotdarkmood.png) |
+| ![Light Mode](./ScreenshotLightmood) | ![Dark Mode](./Screenshotdarkmood) |
 
 ---
 
